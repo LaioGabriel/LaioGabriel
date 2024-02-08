@@ -5,7 +5,7 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Ciência da Computação no Centro Universitário Farias Brito.
 - 💼 Open to Work
-- 🌱 Aprendendo mais sobre JavaScript, MySQL e futuramente react e Node
+- 🌱 Aprendendo mais sobre JavaScript, MySQL e futuramente React e Node
 
 ## Minhas Skills
 
